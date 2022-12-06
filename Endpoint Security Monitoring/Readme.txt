@@ -16,3 +16,14 @@ Core Windows Processes
 - lsass.exe
 - winlogon.exe
 - explorer.exe
+
+Sysinternals
+- Intro
+- Install Systinternals live
+- File and Disk Utilities
+- Networking Utilities
+- Process Utilities
+- Security Utilities
+- System Utilities
+- Extra Information
+- Conclusion
