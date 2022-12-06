@@ -27,3 +27,18 @@ Sysinternals
 - System Utilities
 - Extra Information
 - Conclusion
+
+Windows Event Logs
+- What are Event Logs?
+- Event Viewer
+- wevtutil.exe
+- Get-WinEvent
+- XPath Queries
+- Event IDs
+- Conclusion
+
+Sysmon
+
+Qsquery: The Basics
+
+Wazuh
