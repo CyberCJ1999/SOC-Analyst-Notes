@@ -38,6 +38,7 @@ Windows Event Logs
 - Conclusion
 
 Sysmon
+- Introduction
 
 Qsquery: The Basics
 
