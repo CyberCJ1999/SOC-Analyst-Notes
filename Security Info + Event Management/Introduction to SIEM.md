@@ -25,7 +25,7 @@ Host-Centric Logs are:
 - a process Execution Activity
 - Powershell execution
 - a process adding/editing/deleting a registry key or value
-
+</br>
 2) Network-Centric Log Sources
 Logs are generated when hosts communicate with each other or access the internet to visit a website.
 - network based protocols: SSH, VPN, HTTP/s, FTP
