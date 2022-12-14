@@ -15,7 +15,8 @@ Example of a simple network:
 * * *
 
 Divide our network log sources into 2 logical parts:
-1) Host-Centric Log Sources
+</br>
+Host-Centric Log Sources
 These are log sources that capture events that occurred within or related to the host.
 - log sources that generate host-centric logs are: Windows Event Logs, Sysmon, Qsquery
 
@@ -26,7 +27,7 @@ Host-Centric Logs are:
 - Powershell execution
 - a process adding/editing/deleting a registry key or value
 </br>
-2) Network-Centric Log Sources
+Network-Centric Log Sources
 Logs are generated when hosts communicate with each other or access the internet to visit a website.
 - network based protocols: SSH, VPN, HTTP/s, FTP
 
@@ -82,16 +83,15 @@ SIEM solutions:
 1)	Agent/Forwarder
 - SIEM solution provides a tool called an agent (forwarder by Splunk) that gets installed in the Endpoint
 - it is configured to capture all the important logs and send to SIEM server
-
+</br>
 2)	Syslog
 - widely used protocol to collect data from various systems like web servers + databases
 - send real time data to the centralized destination
-
+</br>
 3)	Manual Upload
 - some SIEM solutions (Splunk and ELK) allow users to ingest offline data for quick analysis
 - once the data is ingested, it is normalised and made available for analysis
-
-
+</br>
 4)	Port Forwarding
 - SIEM solutions can also be configured to listen on a certain point, and then endpoints forward the data to the SIEM instance on listening port
 
