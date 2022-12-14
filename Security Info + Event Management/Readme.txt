@@ -1,6 +1,6 @@
 Security Information and Event Management
 
-SIEM
+Introduction to SIEM
 
 Investigating with ELK 101
 
