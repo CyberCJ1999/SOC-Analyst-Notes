@@ -67,11 +67,12 @@ Windows machine
 
 Linux machine
 - stores all related logs, events, errors, and warnings 
+
 Common locations for Linux logs:
-`/var/log/httpd` contains HTTP request / response and error logs
-`/var/log/cron` events related to cron jobs are stored in this location
-`/var/log/auth.log` and `/var/log/secure` store authentication related logs
-`/var/log/kern` stores kernel related events
+- `/var/log/httpd` contains HTTP request / response and error logs
+- `/var/log/cron` events related to cron jobs are stored in this location
+- `/var/log/auth.log` and `/var/log/secure` store authentication related logs
+- `/var/log/kern` stores kernel related events
 
 Web Server
 - important to keep an eye on all the requests/responses coming in and out of the webserver 
