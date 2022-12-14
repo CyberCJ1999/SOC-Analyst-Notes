@@ -17,6 +17,7 @@ Example of a simple network:
 Divide our network log sources into 2 logical parts:
 
 Host-Centric Log Sources
+</br>
 These are log sources that capture events that occurred within or related to the host.
 - log sources that generate host-centric logs are: Windows Event Logs, Sysmon, Qsquery
 
@@ -28,6 +29,7 @@ Host-Centric Logs are:
 - a process adding/editing/deleting a registry key or value
 </br>
 Network-Centric Log Sources
+</br>
 Logs are generated when hosts communicate with each other or access the internet to visit a website.
 - network based protocols: SSH, VPN, HTTP/s, FTP
 
