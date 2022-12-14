@@ -11,9 +11,11 @@ Example of a simple network:
 - 1 web server
 - devices communicate and access the internet through a router
 - each network component can have one or more log sources generating different logs
+
 * * *
+
 Divide our network log sources into 2 logical parts:
-1)Host-Centric Log Sources
+1) Host-Centric Log Sources
 These are log sources that capture events that occurred within or related to the host.
 - log sources that generate host-centric logs are: Windows Event Logs, Sysmon, Qsquery
 
@@ -24,7 +26,7 @@ Host-Centric Logs are:
 - Powershell execution
 - a process adding/editing/deleting a registry key or value
 
-2)Network-Centric Log Sources
+2) Network-Centric Log Sources
 Logs are generated when hosts communicate with each other or access the internet to visit a website.
 - network based protocols: SSH, VPN, HTTP/s, FTP
 
@@ -35,6 +37,7 @@ Events:
 - user accessing company resources through VPN
 
 * * *
+
 **Importance of SIEM**
 - all devices on network generate hundreds of events per second > examining logs on each device can take a long time
 - advantage of SIEM > ability to correlate between events, search through the logs, investigate incidents and respond promptly
@@ -49,6 +52,7 @@ Events:
 - data insights and visualization
 
 * * *
+
 **Log Sources** 
 - every device on the network generates some kind of log
 
@@ -86,7 +90,6 @@ SIEM solutions:
 3)	Manual Upload
 - some SIEM solutions (Splunk and ELK) allow users to ingest offline data for quick analysis
 - once the data is ingested, it is normalised and made available for analysis
-
 
 
 4)	Port Forwarding
