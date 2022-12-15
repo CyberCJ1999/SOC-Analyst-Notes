@@ -1,7 +1,8 @@
 
 Investigate a cyber attack in which the attacker defaced an organization's website. This organization has Splunk as a SIEM solution setup.
 
-**Cyber Kill Chain**
+**Cyber Kill Chain**  </br> 
+
 Map the attacker's activity in each phase during the investigation
 </BR>
 - Reconnaissance
@@ -12,11 +13,13 @@ Map the attacker's activity in each phase during the investigation
 - Weaponization Phase
 - Delivery
 * * *
-**Scenario**
+**Scenario**  </br> 
+
 A Big corporate organization Wayne Enterprises has recently faced a cyber-attack where the attackers broke into their network, found their way to their web server, and have successfully defaced their website http://www.imreallynotbatman.com. 
 Their website is now showing the trademark of the attackers with the message YOUR SITE HAS BEEN DEFACED.
 * * *
-**Splunk**
+**Splunk**  </br> 
+
 Logs used from 
 - Webserver
 - Firewall
