@@ -26,10 +26,8 @@ Logs used from
 Note: All the event logs that we are going to investigate are present in index=botsv1
 * * *
 **Interesting log sources**        </br>    
-`wineventlog`    
-It contains Windows Event logs   </br>                                                                                                                                                                                    
-`winRegistry`           
-It contains the logs related to registry creation / modification / deletion etc.                                                 </br>                                             
+`wineventlog`    It contains Windows Event logs   </br>                                                                                                                                                                                    
+`winRegistry`           It contains the logs related to registry creation / modification / deletion etc.                                                 </br>                                             
 `XmlWinEventLog`
 It contains the sysmon event logs. It is a very important log source from an investigation point of view.                    </br>                                                         
 `fortigate_utm`
