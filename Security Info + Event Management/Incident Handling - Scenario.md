@@ -1,4 +1,4 @@
-Incident Handling - Scenario
+
 Investigate a cyber attack in which the attacker defaced an organization's website. This organization has Splunk as a SIEM solution setup.
 
 **Cyber Kill Chain**
