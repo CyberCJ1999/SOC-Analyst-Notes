@@ -1,4 +1,4 @@
-SOC Level 1
+SOC Level 1 </br>
 The responsibilities of a Junior Security Analyst or Tier 1 SOC Analyst include the following:
 
 - Monitor and investigate alerts (most of the time, it's a 24x7 SOC operations environment)
