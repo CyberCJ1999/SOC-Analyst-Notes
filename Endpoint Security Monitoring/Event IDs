@@ -1,1 +1,10 @@
+MITRE Att&ck 
+- Att&ck ID T1098 (Account Manipulation)
+- Each Att&ck ID will contain a section sharing mitigation/detection tips
+Detection: 
+Collect events that correlate with changes to account objects and/or permissions on systems and the domain, such as 
+event IDs 4738, 4728 and 4670.
+https://attack.mitre.org/techniques/T1098/
+
+Events to monitor:
 https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/appendix-l--events-to-monitor
