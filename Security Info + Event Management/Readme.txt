@@ -17,5 +17,5 @@ Incident Handling with Splunk
 Investigating with Splunk
 
 Benign 
-- Challenge room to investigate a compromised host
+- Investigate a compromised host
 
