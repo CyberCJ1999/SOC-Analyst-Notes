@@ -15,3 +15,7 @@ Incident Handling with Splunk
 - Action on Objectives
 
 Investigating with Splunk
+
+Benign 
+- Challenge room to investigate a compromised host
+
